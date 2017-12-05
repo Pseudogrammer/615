@@ -1,3 +1,3 @@
 # 615
 
-Biostats615 Projects
+# Statistical computing projects written in C++
